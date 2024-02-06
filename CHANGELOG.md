@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/tolboothtimemachine/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-06)
+
+
+### Features
+
+* add testing to pipeline ([cd4d538](https://github.com/tolboothtimemachine/greetings-ci/commit/cd4d538b446380eea33255684c4d04beb8385313))
+
+
+
 # [0.2.0](https://github.com/tolboothtimemachine/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-06)
 
 

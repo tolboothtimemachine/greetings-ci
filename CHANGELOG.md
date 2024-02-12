@@ -1,3 +1,12 @@
+# [0.6.0](https://github.com/tolboothtimemachine/greetings-ci/compare/v0.5.0...v0.6.0) (2024-02-12)
+
+
+### Features
+
+* add prod deployment ([6dd5a99](https://github.com/tolboothtimemachine/greetings-ci/commit/6dd5a99b4db9e1d3eea930f1cb044f1458edcf37))
+
+
+
 # [0.5.0](https://github.com/tolboothtimemachine/greetings-ci/compare/v0.4.0...v0.5.0) (2024-02-12)
 
 
@@ -31,21 +40,6 @@
 ### Features
 
 * version artifact ([83ecf9a](https://github.com/tolboothtimemachine/greetings-ci/commit/83ecf9a33b6066269c129d1dbfd4e4017bfa0fc9))
-
-
-
-# [0.1.0](https://github.com/tolboothtimemachine/greetings-ci/compare/a0b606f639ed8a28857e0bf4309100a0e065aef8...v0.1.0) (2024-02-06)
-
-
-### Bug Fixes
-
-* reset change log ([51ed0df](https://github.com/tolboothtimemachine/greetings-ci/commit/51ed0dfdf393994d083d565f762680dfdb0ab137)), closes [#2](https://github.com/tolboothtimemachine/greetings-ci/issues/2)
-* update branch name ([b909ca0](https://github.com/tolboothtimemachine/greetings-ci/commit/b909ca0874c0b28c4f42bfb80f2d00b871f1a935))
-
-
-### Features
-
-* add changelog ([a0b606f](https://github.com/tolboothtimemachine/greetings-ci/commit/a0b606f639ed8a28857e0bf4309100a0e065aef8))
 
 
 

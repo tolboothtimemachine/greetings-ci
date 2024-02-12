@@ -1,3 +1,12 @@
+## [0.6.1](https://github.com/tolboothtimemachine/greetings-ci/compare/v0.6.0...v0.6.1) (2024-02-12)
+
+
+### Bug Fixes
+
+* update greeting to blue ([094d581](https://github.com/tolboothtimemachine/greetings-ci/commit/094d581e4d3761f462a92b778bb405e91cc66c41))
+
+
+
 # [0.6.0](https://github.com/tolboothtimemachine/greetings-ci/compare/v0.5.0...v0.6.0) (2024-02-12)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add testing to pipeline ([cd4d538](https://github.com/tolboothtimemachine/greetings-ci/commit/cd4d538b446380eea33255684c4d04beb8385313))
-
-
-
-# [0.2.0](https://github.com/tolboothtimemachine/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-06)
-
-
-### Features
-
-* version artifact ([83ecf9a](https://github.com/tolboothtimemachine/greetings-ci/commit/83ecf9a33b6066269c129d1dbfd4e4017bfa0fc9))
 
 
 
